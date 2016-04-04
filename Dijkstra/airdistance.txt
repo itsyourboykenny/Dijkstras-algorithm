@@ -1,0 +1,16 @@
+Paris NewDelhi 4111
+NewDelhi Moscow 2708
+NewDelhi Sydney 6459
+NewDelhi Seoul 2927
+Seoul Sydney 5138
+Seoul Moscow 4134
+Paris Moscow 1552
+Paris Pretoria 5354
+Pretoria Sydney 6907
+Paris Brasilia 5369
+Brasilia Pretoria 4888
+Brasilia MexicoCity 4244
+Paris Washington 3848
+Washington MexicoCity 1874
+Paris Ottawa 3510
+Ottawa Washington 471
